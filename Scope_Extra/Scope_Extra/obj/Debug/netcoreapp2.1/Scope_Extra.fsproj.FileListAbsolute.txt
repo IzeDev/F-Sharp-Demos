@@ -1,0 +1,8 @@
+C:\Users\jimmy\source\repos\F# Demos\Scope_Extra\Scope_Extra\bin\Debug\netcoreapp2.1\Scope_Extra.deps.json
+C:\Users\jimmy\source\repos\F# Demos\Scope_Extra\Scope_Extra\bin\Debug\netcoreapp2.1\Scope_Extra.runtimeconfig.json
+C:\Users\jimmy\source\repos\F# Demos\Scope_Extra\Scope_Extra\bin\Debug\netcoreapp2.1\Scope_Extra.runtimeconfig.dev.json
+C:\Users\jimmy\source\repos\F# Demos\Scope_Extra\Scope_Extra\bin\Debug\netcoreapp2.1\Scope_Extra.dll
+C:\Users\jimmy\source\repos\F# Demos\Scope_Extra\Scope_Extra\bin\Debug\netcoreapp2.1\Scope_Extra.pdb
+C:\Users\jimmy\source\repos\F# Demos\Scope_Extra\Scope_Extra\obj\Debug\netcoreapp2.1\Scope_Extra.fsprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\F# Demos\Scope_Extra\Scope_Extra\obj\Debug\netcoreapp2.1\Scope_Extra.dll
+C:\Users\jimmy\source\repos\F# Demos\Scope_Extra\Scope_Extra\obj\Debug\netcoreapp2.1\Scope_Extra.pdb

@@ -1,0 +1,8 @@
+C:\Users\jimmy\source\repos\F# Demos\SimpleFunctions\SimpleFunctions\bin\Debug\netcoreapp2.1\SimpleFunctions.deps.json
+C:\Users\jimmy\source\repos\F# Demos\SimpleFunctions\SimpleFunctions\bin\Debug\netcoreapp2.1\SimpleFunctions.runtimeconfig.json
+C:\Users\jimmy\source\repos\F# Demos\SimpleFunctions\SimpleFunctions\bin\Debug\netcoreapp2.1\SimpleFunctions.runtimeconfig.dev.json
+C:\Users\jimmy\source\repos\F# Demos\SimpleFunctions\SimpleFunctions\bin\Debug\netcoreapp2.1\SimpleFunctions.dll
+C:\Users\jimmy\source\repos\F# Demos\SimpleFunctions\SimpleFunctions\bin\Debug\netcoreapp2.1\SimpleFunctions.pdb
+C:\Users\jimmy\source\repos\F# Demos\SimpleFunctions\SimpleFunctions\obj\Debug\netcoreapp2.1\SimpleFunctions.fsprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\F# Demos\SimpleFunctions\SimpleFunctions\obj\Debug\netcoreapp2.1\SimpleFunctions.dll
+C:\Users\jimmy\source\repos\F# Demos\SimpleFunctions\SimpleFunctions\obj\Debug\netcoreapp2.1\SimpleFunctions.pdb

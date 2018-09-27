@@ -1,0 +1,8 @@
+C:\Users\jimmy\source\repos\F# Demos\ScriptFiles\ScriptFiles\bin\Debug\netcoreapp2.1\ScriptFiles.deps.json
+C:\Users\jimmy\source\repos\F# Demos\ScriptFiles\ScriptFiles\bin\Debug\netcoreapp2.1\ScriptFiles.runtimeconfig.json
+C:\Users\jimmy\source\repos\F# Demos\ScriptFiles\ScriptFiles\bin\Debug\netcoreapp2.1\ScriptFiles.runtimeconfig.dev.json
+C:\Users\jimmy\source\repos\F# Demos\ScriptFiles\ScriptFiles\bin\Debug\netcoreapp2.1\ScriptFiles.dll
+C:\Users\jimmy\source\repos\F# Demos\ScriptFiles\ScriptFiles\bin\Debug\netcoreapp2.1\ScriptFiles.pdb
+C:\Users\jimmy\source\repos\F# Demos\ScriptFiles\ScriptFiles\obj\Debug\netcoreapp2.1\ScriptFiles.fsprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\F# Demos\ScriptFiles\ScriptFiles\obj\Debug\netcoreapp2.1\ScriptFiles.dll
+C:\Users\jimmy\source\repos\F# Demos\ScriptFiles\ScriptFiles\obj\Debug\netcoreapp2.1\ScriptFiles.pdb
