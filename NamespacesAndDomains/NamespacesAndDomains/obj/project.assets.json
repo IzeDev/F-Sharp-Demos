@@ -616,10 +616,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -782,23 +783,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jimmy\\.nuget\\packages\\": {},
+    "C:\\Users\\jimmy\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\NamespacesAndDomains\\NamespacesAndDomains\\NamespacesAndDomains.fsproj",
+      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\NamespacesAndDomains\\NamespacesAndDomains\\NamespacesAndDomains.fsproj",
       "projectName": "NamespacesAndDomains",
-      "projectPath": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\NamespacesAndDomains\\NamespacesAndDomains\\NamespacesAndDomains.fsproj",
-      "packagesPath": "C:\\Users\\Jimmy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\NamespacesAndDomains\\NamespacesAndDomains\\obj\\",
+      "projectPath": "D:\\Source\\F-Sharp Demos\\NamespacesAndDomains\\NamespacesAndDomains\\NamespacesAndDomains.fsproj",
+      "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+      "outputPath": "D:\\Source\\F-Sharp Demos\\NamespacesAndDomains\\NamespacesAndDomains\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
