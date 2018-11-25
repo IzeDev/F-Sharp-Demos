@@ -265,7 +265,7 @@
   },
   "libraries": {
     "FSharp.Core/4.5.2": {
-      "sha512": "mQlCpyv/wNZAihLBUbBu8gS4NpXpBCTw/eMQqujn8sGBukxSYH3CoE0vPABACNQEv7HoAX7CJt5q7l6Yb2E2hg==",
+      "sha512": "Pe3EDp9oBjQ3c3fvZAJsw7XFLHECS3zn3P7MSqsJy3sFYR6jvTgxxnCFeePR1JHiWyZ3bm+RZAjchqVYk61adA==",
       "type": "package",
       "path": "fsharp.core/4.5.2",
       "files": [
@@ -782,23 +782,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jimmy\\.nuget\\packages\\": {},
+    "C:\\Users\\Jimmy\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jimmy\\source\\repos\\F# Demos\\CarVacation\\CarVacation\\CarVacation.fsproj",
+      "projectUniqueName": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\CarVacation\\CarVacation\\CarVacation.fsproj",
       "projectName": "CarVacation",
-      "projectPath": "C:\\Users\\jimmy\\source\\repos\\F# Demos\\CarVacation\\CarVacation\\CarVacation.fsproj",
-      "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jimmy\\source\\repos\\F# Demos\\CarVacation\\CarVacation\\obj\\",
+      "projectPath": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\CarVacation\\CarVacation\\CarVacation.fsproj",
+      "packagesPath": "C:\\Users\\Jimmy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\CarVacation\\CarVacation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

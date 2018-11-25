@@ -788,11 +788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\TypesAndTuples\\TypesAndTuples\\TypesAndTuples.fsproj",
-      "projectName": "TypesAndTuples",
-      "projectPath": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\TypesAndTuples\\TypesAndTuples\\TypesAndTuples.fsproj",
+      "projectUniqueName": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\WithdrawingAndDepositingMoney\\WithdrawingAndDepositingMoney\\WithdrawingAndDepositingMoney.fsproj",
+      "projectName": "WithdrawingAndDepositingMoney",
+      "projectPath": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\WithdrawingAndDepositingMoney\\WithdrawingAndDepositingMoney\\WithdrawingAndDepositingMoney.fsproj",
       "packagesPath": "C:\\Users\\Jimmy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\TypesAndTuples\\TypesAndTuples\\obj\\",
+      "outputPath": "C:\\Users\\Jimmy\\source\\repos\\F-Sharp-Demos\\WithdrawingAndDepositingMoney\\WithdrawingAndDepositingMoney\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
