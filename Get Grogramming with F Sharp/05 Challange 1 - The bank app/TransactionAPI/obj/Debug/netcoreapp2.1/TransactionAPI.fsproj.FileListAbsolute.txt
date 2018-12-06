@@ -1,0 +1,7 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\TransactionAPI\bin\Debug\netcoreapp2.1\TransactionAPI.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\TransactionAPI\bin\Debug\netcoreapp2.1\TransactionAPI.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\TransactionAPI\bin\Debug\netcoreapp2.1\TransactionAPI.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\TransactionAPI\obj\Debug\netcoreapp2.1\TransactionAPI.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\TransactionAPI\obj\Debug\netcoreapp2.1\TransactionAPI.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\TransactionAPI\obj\Debug\netcoreapp2.1\TransactionAPI.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\TransactionAPI\obj\Debug\netcoreapp2.1\TransactionAPI.pdb

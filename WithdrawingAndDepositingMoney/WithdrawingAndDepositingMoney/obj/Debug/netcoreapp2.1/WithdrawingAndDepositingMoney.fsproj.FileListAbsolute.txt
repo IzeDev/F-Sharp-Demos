@@ -1,8 +1,0 @@
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\WithdrawingAndDepositingMoney\WithdrawingAndDepositingMoney\obj\Debug\netcoreapp2.1\WithdrawingAndDepositingMoney.fsprojAssemblyReference.cache
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\WithdrawingAndDepositingMoney\WithdrawingAndDepositingMoney\bin\Debug\netcoreapp2.1\WithdrawingAndDepositingMoney.deps.json
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\WithdrawingAndDepositingMoney\WithdrawingAndDepositingMoney\bin\Debug\netcoreapp2.1\WithdrawingAndDepositingMoney.runtimeconfig.json
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\WithdrawingAndDepositingMoney\WithdrawingAndDepositingMoney\bin\Debug\netcoreapp2.1\WithdrawingAndDepositingMoney.runtimeconfig.dev.json
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\WithdrawingAndDepositingMoney\WithdrawingAndDepositingMoney\bin\Debug\netcoreapp2.1\WithdrawingAndDepositingMoney.dll
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\WithdrawingAndDepositingMoney\WithdrawingAndDepositingMoney\bin\Debug\netcoreapp2.1\WithdrawingAndDepositingMoney.pdb
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\WithdrawingAndDepositingMoney\WithdrawingAndDepositingMoney\obj\Debug\netcoreapp2.1\WithdrawingAndDepositingMoney.dll
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\WithdrawingAndDepositingMoney\WithdrawingAndDepositingMoney\obj\Debug\netcoreapp2.1\WithdrawingAndDepositingMoney.pdb

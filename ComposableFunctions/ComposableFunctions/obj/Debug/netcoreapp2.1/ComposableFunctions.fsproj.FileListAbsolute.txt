@@ -1,8 +1,0 @@
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\ComposableFunctions\ComposableFunctions\bin\Debug\netcoreapp2.1\ComposableFunctions.deps.json
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\ComposableFunctions\ComposableFunctions\bin\Debug\netcoreapp2.1\ComposableFunctions.runtimeconfig.json
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\ComposableFunctions\ComposableFunctions\bin\Debug\netcoreapp2.1\ComposableFunctions.runtimeconfig.dev.json
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\ComposableFunctions\ComposableFunctions\bin\Debug\netcoreapp2.1\ComposableFunctions.dll
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\ComposableFunctions\ComposableFunctions\bin\Debug\netcoreapp2.1\ComposableFunctions.pdb
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\ComposableFunctions\ComposableFunctions\obj\Debug\netcoreapp2.1\ComposableFunctions.fsprojAssemblyReference.cache
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\ComposableFunctions\ComposableFunctions\obj\Debug\netcoreapp2.1\ComposableFunctions.dll
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\ComposableFunctions\ComposableFunctions\obj\Debug\netcoreapp2.1\ComposableFunctions.pdb

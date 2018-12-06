@@ -1,0 +1,13 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\bin\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\bin\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\bin\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\bin\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\bin\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\obj\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\obj\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\obj\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\obj\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\obj\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\bin\Debug\netcoreapp2.1\SomeAPI.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\bin\Debug\netcoreapp2.1\SomeAPI.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\Lesson 12 Organizing Code without Classes\obj\Debug\netcoreapp2.1\Lesson 12 Organizing Code without Classes.fsproj.CopyComplete

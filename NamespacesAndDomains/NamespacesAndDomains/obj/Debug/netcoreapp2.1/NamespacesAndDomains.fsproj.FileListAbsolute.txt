@@ -1,8 +1,0 @@
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\NamespacesAndDomains\NamespacesAndDomains\obj\Debug\netcoreapp2.1\NamespacesAndDomains.fsprojAssemblyReference.cache
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\NamespacesAndDomains\NamespacesAndDomains\bin\Debug\netcoreapp2.1\NamespacesAndDomains.deps.json
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\NamespacesAndDomains\NamespacesAndDomains\bin\Debug\netcoreapp2.1\NamespacesAndDomains.runtimeconfig.json
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\NamespacesAndDomains\NamespacesAndDomains\bin\Debug\netcoreapp2.1\NamespacesAndDomains.runtimeconfig.dev.json
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\NamespacesAndDomains\NamespacesAndDomains\bin\Debug\netcoreapp2.1\NamespacesAndDomains.dll
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\NamespacesAndDomains\NamespacesAndDomains\bin\Debug\netcoreapp2.1\NamespacesAndDomains.pdb
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\NamespacesAndDomains\NamespacesAndDomains\obj\Debug\netcoreapp2.1\NamespacesAndDomains.dll
-C:\Users\Jimmy\source\repos\F-Sharp-Demos\NamespacesAndDomains\NamespacesAndDomains\obj\Debug\netcoreapp2.1\NamespacesAndDomains.pdb

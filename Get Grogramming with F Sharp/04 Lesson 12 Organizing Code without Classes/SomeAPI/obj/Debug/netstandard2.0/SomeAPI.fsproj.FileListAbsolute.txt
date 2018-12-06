@@ -1,0 +1,8 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\SomeAPI\bin\Debug\netstandard2.0\SomeAPI.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\SomeAPI\bin\Debug\netstandard2.0\SomeAPI.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\SomeAPI\bin\Debug\netstandard2.0\SomeAPI.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\SomeAPI\obj\Debug\netstandard2.0\SomeAPI.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\SomeAPI\obj\Debug\netstandard2.0\SomeAPI.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\SomeAPI\obj\Debug\netstandard2.0\SomeAPI.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\SomeAPI\obj\Debug\netstandard2.0\SomeAPI.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 12 Organizing Code without Classes\SomeAPI\obj\Debug\netstandard2.0\SomeAPI.pdb

@@ -1,0 +1,10 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 10 Shaping Data with Records\Lesson 10 Shaping Data with Records\bin\Debug\netcoreapp2.1\Lesson 10 Shaping Data with Records.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 10 Shaping Data with Records\Lesson 10 Shaping Data with Records\bin\Debug\netcoreapp2.1\Lesson 10 Shaping Data with Records.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 10 Shaping Data with Records\Lesson 10 Shaping Data with Records\bin\Debug\netcoreapp2.1\Lesson 10 Shaping Data with Records.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 10 Shaping Data with Records\Lesson 10 Shaping Data with Records\bin\Debug\netcoreapp2.1\Lesson 10 Shaping Data with Records.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 10 Shaping Data with Records\Lesson 10 Shaping Data with Records\bin\Debug\netcoreapp2.1\Lesson 10 Shaping Data with Records.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 10 Shaping Data with Records\Lesson 10 Shaping Data with Records\obj\Debug\netcoreapp2.1\Lesson 10 Shaping Data with Records.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 10 Shaping Data with Records\Lesson 10 Shaping Data with Records\obj\Debug\netcoreapp2.1\Lesson 10 Shaping Data with Records.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 10 Shaping Data with Records\Lesson 10 Shaping Data with Records\obj\Debug\netcoreapp2.1\Lesson 10 Shaping Data with Records.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 10 Shaping Data with Records\Lesson 10 Shaping Data with Records\obj\Debug\netcoreapp2.1\Lesson 10 Shaping Data with Records.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 10 Shaping Data with Records\Lesson 10 Shaping Data with Records\obj\Debug\netcoreapp2.1\Lesson 10 Shaping Data with Records.pdb

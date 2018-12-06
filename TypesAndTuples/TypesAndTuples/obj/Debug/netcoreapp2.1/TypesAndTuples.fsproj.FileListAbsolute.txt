@@ -1,8 +1,0 @@
-C:\Users\jimmy\source\repos\F# Demos\TypesAndTuples\TypesAndTuples\bin\Debug\netcoreapp2.1\TypesAndTuples.deps.json
-C:\Users\jimmy\source\repos\F# Demos\TypesAndTuples\TypesAndTuples\bin\Debug\netcoreapp2.1\TypesAndTuples.runtimeconfig.json
-C:\Users\jimmy\source\repos\F# Demos\TypesAndTuples\TypesAndTuples\bin\Debug\netcoreapp2.1\TypesAndTuples.runtimeconfig.dev.json
-C:\Users\jimmy\source\repos\F# Demos\TypesAndTuples\TypesAndTuples\bin\Debug\netcoreapp2.1\TypesAndTuples.dll
-C:\Users\jimmy\source\repos\F# Demos\TypesAndTuples\TypesAndTuples\bin\Debug\netcoreapp2.1\TypesAndTuples.pdb
-C:\Users\jimmy\source\repos\F# Demos\TypesAndTuples\TypesAndTuples\obj\Debug\netcoreapp2.1\TypesAndTuples.fsprojAssemblyReference.cache
-C:\Users\jimmy\source\repos\F# Demos\TypesAndTuples\TypesAndTuples\obj\Debug\netcoreapp2.1\TypesAndTuples.dll
-C:\Users\jimmy\source\repos\F# Demos\TypesAndTuples\TypesAndTuples\obj\Debug\netcoreapp2.1\TypesAndTuples.pdb

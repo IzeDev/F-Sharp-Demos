@@ -1,8 +1,0 @@
-C:\Users\jimmy\source\repos\F# Demos\CarVacation\CarVacation\bin\Debug\netcoreapp2.1\CarVacation.deps.json
-C:\Users\jimmy\source\repos\F# Demos\CarVacation\CarVacation\bin\Debug\netcoreapp2.1\CarVacation.runtimeconfig.json
-C:\Users\jimmy\source\repos\F# Demos\CarVacation\CarVacation\bin\Debug\netcoreapp2.1\CarVacation.runtimeconfig.dev.json
-C:\Users\jimmy\source\repos\F# Demos\CarVacation\CarVacation\bin\Debug\netcoreapp2.1\CarVacation.dll
-C:\Users\jimmy\source\repos\F# Demos\CarVacation\CarVacation\bin\Debug\netcoreapp2.1\CarVacation.pdb
-C:\Users\jimmy\source\repos\F# Demos\CarVacation\CarVacation\obj\Debug\netcoreapp2.1\CarVacation.fsprojAssemblyReference.cache
-C:\Users\jimmy\source\repos\F# Demos\CarVacation\CarVacation\obj\Debug\netcoreapp2.1\CarVacation.dll
-C:\Users\jimmy\source\repos\F# Demos\CarVacation\CarVacation\obj\Debug\netcoreapp2.1\CarVacation.pdb
