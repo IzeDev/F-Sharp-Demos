@@ -260,19 +260,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "TransactionAPI/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "FSharp.Core": "4.5.2"
-        },
-        "compile": {
-          "bin/placeholder/TransactionAPI.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TransactionAPI.dll": {}
-        }
       }
     }
   },
@@ -794,18 +781,12 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "TransactionAPI/1.0.0": {
-      "type": "project",
-      "path": "../TransactionAPI/TransactionAPI.fsproj",
-      "msbuildProject": "../TransactionAPI/TransactionAPI.fsproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "FSharp.Core >= 4.5.2",
-      "Microsoft.NETCore.App >= 2.1.0",
-      "TransactionAPI >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
   "packageFolders": {
@@ -837,11 +818,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {
-            "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\05 Challange 1 - The bank app\\TransactionAPI\\TransactionAPI.fsproj": {
-              "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\05 Challange 1 - The bank app\\TransactionAPI\\TransactionAPI.fsproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

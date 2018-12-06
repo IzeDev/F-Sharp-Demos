@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v2.1": {
       "05 Challange 1 - The bank app/1.0.0": {
         "dependencies": {
-          "FSharp.Core": "4.5.2",
-          "TransactionAPI": "1.0.0"
+          "FSharp.Core": "4.5.2"
         },
         "runtime": {
           "05 Challange 1 - The bank app.dll": {}
@@ -66,14 +65,6 @@
             "locale": "zh-Hant"
           }
         }
-      },
-      "TransactionAPI/1.0.0": {
-        "dependencies": {
-          "FSharp.Core": "4.5.2"
-        },
-        "runtime": {
-          "TransactionAPI.dll": {}
-        }
       }
     }
   },
@@ -89,11 +80,6 @@
       "sha512": "sha512-Pe3EDp9oBjQ3c3fvZAJsw7XFLHECS3zn3P7MSqsJy3sFYR6jvTgxxnCFeePR1JHiWyZ3bm+RZAjchqVYk61adA==",
       "path": "fsharp.core/4.5.2",
       "hashPath": "fsharp.core.4.5.2.nupkg.sha512"
-    },
-    "TransactionAPI/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

@@ -3,11 +3,8 @@ D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank a
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\bin\Debug\netcoreapp2.1\05 Challange 1 - The bank app.runtimeconfig.dev.json
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\bin\Debug\netcoreapp2.1\05 Challange 1 - The bank app.dll
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\bin\Debug\netcoreapp2.1\05 Challange 1 - The bank app.pdb
-D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\bin\Debug\netcoreapp2.1\TransactionAPI.dll
-D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\bin\Debug\netcoreapp2.1\TransactionAPI.pdb
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\obj\Debug\netcoreapp2.1\05 Challange 1 - The bank app.fsprojAssemblyReference.cache
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\obj\Debug\netcoreapp2.1\05 Challange 1 - The bank app.AssemblyInfoInputs.cache
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\obj\Debug\netcoreapp2.1\05 Challange 1 - The bank app.AssemblyInfo.fs
-D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\obj\Debug\netcoreapp2.1\05 Challange 1 - The bank app.fsproj.CopyComplete
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\obj\Debug\netcoreapp2.1\05 Challange 1 - The bank app.dll
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\05 Challange 1 - The bank app\05 Challange 1 - The bank app\obj\Debug\netcoreapp2.1\05 Challange 1 - The bank app.pdb

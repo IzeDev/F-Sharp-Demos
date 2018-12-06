@@ -7,11 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Domain.fs" />
+    <Compile Include="Operations.fs" />
+    <Compile Include="Auditing.fs" />
     <Compile Include="Program.fs" />
+    <None Include="Scratchpad.fsx" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\TransactionAPI\TransactionAPI.fsproj" />
-  </ItemGroup>
+  <ItemGroup />
 
 </Project>
