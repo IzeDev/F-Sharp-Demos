@@ -1,17 +1,11 @@
-﻿module Domain =
-    type BankAccount = { Balance : decimal }
-    type Customer = { Name : string; Account : BankAccount }
+﻿open System
+//open Domain
+//open Operations
 
-module Operations =
-    open Domain
+let formAuditMessage customer action amount =
+    let message = String.Format("{0} - {1} : {2} {3}", customer, customer, action, amount)
+    message
 
-    let deposit account amount =
-        if amount > 0m then { account with Balance = account.Balance + amount }
-        else account
+let x = (formAuditMessage "Jimmy" "Stuff" 500)
 
-    let withdraw account amount =
-        if account.Balance >= amount && amount > 0m then { account with Balance = account.Balance - amount }
-        else account
-
-let myAccount = { Domain.Balance = 1000m }
-let myAccount2 = Operations.deposit myAccount 100m
+printfn "%s" x

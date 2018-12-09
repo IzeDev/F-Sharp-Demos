@@ -796,11 +796,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\05 Challange 1 - The bank app\\05 Challange 1 - The bank app\\05 Challange 1 - The bank app.fsproj",
+      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\06 Challange 1 - The bank app\\05 Challange 1 - The bank app\\05 Challange 1 - The bank app.fsproj",
       "projectName": "05 Challange 1 - The bank app",
-      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\05 Challange 1 - The bank app\\05 Challange 1 - The bank app\\05 Challange 1 - The bank app.fsproj",
+      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\06 Challange 1 - The bank app\\05 Challange 1 - The bank app\\05 Challange 1 - The bank app.fsproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\05 Challange 1 - The bank app\\05 Challange 1 - The bank app\\obj\\",
+      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\06 Challange 1 - The bank app\\05 Challange 1 - The bank app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
