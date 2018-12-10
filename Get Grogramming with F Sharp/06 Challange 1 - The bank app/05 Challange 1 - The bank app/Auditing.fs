@@ -14,9 +14,9 @@ module private InternalFunctions =
 
 open InternalFunctions
 
-let consoleAudit customer action amount =
+let consoleAudit action customer  amount =
     formAuditMessage customer action amount |> printfn "%s"
 
-let filesystemAudit customer action amount =
+let filesystemAudit action customer amount =
     formAuditMessage customer action amount |> writeToFile
 

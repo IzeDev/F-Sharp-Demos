@@ -796,11 +796,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 11 Building Composable Functions\\Lesson 11 Building Composable Functions\\Lesson 11 Building Composable Functions.fsproj",
+      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\03 Lesson 11 Building Composable Functions\\Lesson 11 Building Composable Functions\\Lesson 11 Building Composable Functions.fsproj",
       "projectName": "Lesson 11 Building Composable Functions",
-      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 11 Building Composable Functions\\Lesson 11 Building Composable Functions\\Lesson 11 Building Composable Functions.fsproj",
+      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\03 Lesson 11 Building Composable Functions\\Lesson 11 Building Composable Functions\\Lesson 11 Building Composable Functions.fsproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 11 Building Composable Functions\\Lesson 11 Building Composable Functions\\obj\\",
+      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\03 Lesson 11 Building Composable Functions\\Lesson 11 Building Composable Functions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
