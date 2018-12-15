@@ -1,0 +1,10 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 15 Working with Collections\Lesson 15 Working with Collections\bin\Debug\netcoreapp2.1\Lesson 15 Working with Collections.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 15 Working with Collections\Lesson 15 Working with Collections\bin\Debug\netcoreapp2.1\Lesson 15 Working with Collections.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 15 Working with Collections\Lesson 15 Working with Collections\bin\Debug\netcoreapp2.1\Lesson 15 Working with Collections.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 15 Working with Collections\Lesson 15 Working with Collections\bin\Debug\netcoreapp2.1\Lesson 15 Working with Collections.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 15 Working with Collections\Lesson 15 Working with Collections\bin\Debug\netcoreapp2.1\Lesson 15 Working with Collections.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 15 Working with Collections\Lesson 15 Working with Collections\obj\Debug\netcoreapp2.1\Lesson 15 Working with Collections.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 15 Working with Collections\Lesson 15 Working with Collections\obj\Debug\netcoreapp2.1\Lesson 15 Working with Collections.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 15 Working with Collections\Lesson 15 Working with Collections\obj\Debug\netcoreapp2.1\Lesson 15 Working with Collections.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 15 Working with Collections\Lesson 15 Working with Collections\obj\Debug\netcoreapp2.1\Lesson 15 Working with Collections.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 15 Working with Collections\Lesson 15 Working with Collections\obj\Debug\netcoreapp2.1\Lesson 15 Working with Collections.pdb
