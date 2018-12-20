@@ -796,11 +796,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\07 Lesson 15 Working with Collections\\Lesson 15 Working with Collections\\Lesson 15 Working with Collections.fsproj",
-      "projectName": "Lesson 15 Working with Collections",
-      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\07 Lesson 15 Working with Collections\\Lesson 15 Working with Collections\\Lesson 15 Working with Collections.fsproj",
+      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\08 Lesson 16 Useful Collection Functions\\Lesson 16 Useful Collection Functions\\Lesson 16 Useful Collection Functions.fsproj",
+      "projectName": "Lesson 16 Useful Collection Functions",
+      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\08 Lesson 16 Useful Collection Functions\\Lesson 16 Useful Collection Functions\\Lesson 16 Useful Collection Functions.fsproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\07 Lesson 15 Working with Collections\\Lesson 15 Working with Collections\\obj\\",
+      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\08 Lesson 16 Useful Collection Functions\\Lesson 16 Useful Collection Functions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

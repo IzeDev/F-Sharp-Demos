@@ -1,0 +1,20 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\bin\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\bin\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\bin\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\bin\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\bin\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\obj\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\obj\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\obj\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\obj\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\obj\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\08 Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\bin\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\08 Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\bin\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\08 Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\bin\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\08 Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\bin\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\08 Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\bin\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\08 Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\obj\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\08 Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\obj\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\08 Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\obj\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\08 Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\obj\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\08 Lesson 16 Useful Collection Functions\Lesson 16 Useful Collection Functions\obj\Debug\netcoreapp2.1\Lesson 16 Useful Collection Functions.pdb

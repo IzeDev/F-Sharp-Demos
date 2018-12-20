@@ -796,11 +796,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 10 Shaping Data with Records\\Lesson 10 Shaping Data with Records\\Lesson 10 Shaping Data with Records.fsproj",
+      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\02 Lesson 10 Shaping Data with Records\\Lesson 10 Shaping Data with Records\\Lesson 10 Shaping Data with Records.fsproj",
       "projectName": "Lesson 10 Shaping Data with Records",
-      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 10 Shaping Data with Records\\Lesson 10 Shaping Data with Records\\Lesson 10 Shaping Data with Records.fsproj",
+      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\02 Lesson 10 Shaping Data with Records\\Lesson 10 Shaping Data with Records\\Lesson 10 Shaping Data with Records.fsproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 10 Shaping Data with Records\\Lesson 10 Shaping Data with Records\\obj\\",
+      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\02 Lesson 10 Shaping Data with Records\\Lesson 10 Shaping Data with Records\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
