@@ -1,0 +1,10 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 17 Maps and Sets\Lesson 17 Maps and Sets\bin\Debug\netcoreapp2.1\Lesson 17 Maps and Sets.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 17 Maps and Sets\Lesson 17 Maps and Sets\bin\Debug\netcoreapp2.1\Lesson 17 Maps and Sets.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 17 Maps and Sets\Lesson 17 Maps and Sets\bin\Debug\netcoreapp2.1\Lesson 17 Maps and Sets.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 17 Maps and Sets\Lesson 17 Maps and Sets\bin\Debug\netcoreapp2.1\Lesson 17 Maps and Sets.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 17 Maps and Sets\Lesson 17 Maps and Sets\bin\Debug\netcoreapp2.1\Lesson 17 Maps and Sets.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 17 Maps and Sets\Lesson 17 Maps and Sets\obj\Debug\netcoreapp2.1\Lesson 17 Maps and Sets.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 17 Maps and Sets\Lesson 17 Maps and Sets\obj\Debug\netcoreapp2.1\Lesson 17 Maps and Sets.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 17 Maps and Sets\Lesson 17 Maps and Sets\obj\Debug\netcoreapp2.1\Lesson 17 Maps and Sets.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 17 Maps and Sets\Lesson 17 Maps and Sets\obj\Debug\netcoreapp2.1\Lesson 17 Maps and Sets.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 17 Maps and Sets\Lesson 17 Maps and Sets\obj\Debug\netcoreapp2.1\Lesson 17 Maps and Sets.pdb
