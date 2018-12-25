@@ -1,0 +1,10 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 18 Folding your way to success\Lesson 18 Folding your way to success\bin\Debug\netcoreapp2.1\Lesson 18 Folding your way to success.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 18 Folding your way to success\Lesson 18 Folding your way to success\bin\Debug\netcoreapp2.1\Lesson 18 Folding your way to success.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 18 Folding your way to success\Lesson 18 Folding your way to success\bin\Debug\netcoreapp2.1\Lesson 18 Folding your way to success.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 18 Folding your way to success\Lesson 18 Folding your way to success\bin\Debug\netcoreapp2.1\Lesson 18 Folding your way to success.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 18 Folding your way to success\Lesson 18 Folding your way to success\bin\Debug\netcoreapp2.1\Lesson 18 Folding your way to success.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 18 Folding your way to success\Lesson 18 Folding your way to success\obj\Debug\netcoreapp2.1\Lesson 18 Folding your way to success.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 18 Folding your way to success\Lesson 18 Folding your way to success\obj\Debug\netcoreapp2.1\Lesson 18 Folding your way to success.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 18 Folding your way to success\Lesson 18 Folding your way to success\obj\Debug\netcoreapp2.1\Lesson 18 Folding your way to success.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 18 Folding your way to success\Lesson 18 Folding your way to success\obj\Debug\netcoreapp2.1\Lesson 18 Folding your way to success.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 18 Folding your way to success\Lesson 18 Folding your way to success\obj\Debug\netcoreapp2.1\Lesson 18 Folding your way to success.pdb
