@@ -1,0 +1,10 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\12 Lesson 20 Program flow\Lesson 20 Program flow\bin\Debug\netcoreapp2.1\Lesson 20 Program flow.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\12 Lesson 20 Program flow\Lesson 20 Program flow\bin\Debug\netcoreapp2.1\Lesson 20 Program flow.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\12 Lesson 20 Program flow\Lesson 20 Program flow\bin\Debug\netcoreapp2.1\Lesson 20 Program flow.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\12 Lesson 20 Program flow\Lesson 20 Program flow\bin\Debug\netcoreapp2.1\Lesson 20 Program flow.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\12 Lesson 20 Program flow\Lesson 20 Program flow\bin\Debug\netcoreapp2.1\Lesson 20 Program flow.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\12 Lesson 20 Program flow\Lesson 20 Program flow\obj\Debug\netcoreapp2.1\Lesson 20 Program flow.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\12 Lesson 20 Program flow\Lesson 20 Program flow\obj\Debug\netcoreapp2.1\Lesson 20 Program flow.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\12 Lesson 20 Program flow\Lesson 20 Program flow\obj\Debug\netcoreapp2.1\Lesson 20 Program flow.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\12 Lesson 20 Program flow\Lesson 20 Program flow\obj\Debug\netcoreapp2.1\Lesson 20 Program flow.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\12 Lesson 20 Program flow\Lesson 20 Program flow\obj\Debug\netcoreapp2.1\Lesson 20 Program flow.pdb
