@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "FSharp.Core/4.5.2": {
+      "FSharp.Core/4.5.4": {
         "type": "package",
         "compile": {
           "lib/netstandard1.6/FSharp.Core.dll": {}
@@ -260,24 +260,46 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "FSharp.Core/4.5.2": {
-      "sha512": "Pe3EDp9oBjQ3c3fvZAJsw7XFLHECS3zn3P7MSqsJy3sFYR6jvTgxxnCFeePR1JHiWyZ3bm+RZAjchqVYk61adA==",
+    "FSharp.Core/4.5.4": {
+      "sha512": "MXHxhqiKrTNozu1D23pXBTWZQD9hbzlwIWd+z9ywFoyVFMkeSdZzoV6d116sl33BD1iQtu/lEe5BWY/J96qZNQ==",
       "type": "package",
-      "path": "fsharp.core/4.5.2",
+      "path": "fsharp.core/4.5.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "fsharp.core.4.5.2.nupkg.sha512",
+        "fsharp.core.4.5.4.nupkg.sha512",
         "fsharp.core.nuspec",
         "lib/net45/FSharp.Core.dll",
         "lib/net45/FSharp.Core.optdata",
-        "lib/net45/FSharp.Core.resources.dll",
         "lib/net45/FSharp.Core.sigdata",
         "lib/net45/FSharp.Core.xml",
+        "lib/net45/UnitTests/MockTypeProviders/cs/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/de/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/en/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/es/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/fr/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/it/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/ja/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/ko/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/pl/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/pt-BR/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/ru/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/tr/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/zh-Hans/FSharp.Core.resources.dll",
+        "lib/net45/UnitTests/MockTypeProviders/zh-Hant/FSharp.Core.resources.dll",
         "lib/net45/cs/FSharp.Core.resources.dll",
         "lib/net45/de/FSharp.Core.resources.dll",
         "lib/net45/en/FSharp.Core.resources.dll",
@@ -781,12 +803,52 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "sha512": "jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.pdb",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.pdb",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.pdb",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.pdb",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.pdb",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.pdb",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.pdb",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.pdb",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.pdb",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "FSharp.Core >= 4.5.2",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "FSharp.Core >= 4.5.4",
+      "Microsoft.NETCore.App >= 2.1.0",
+      "Newtonsoft.Json >= 12.0.1"
     ]
   },
   "packageFolders": {
@@ -796,11 +858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 18 Folding your way to success\\Lesson 18 Folding your way to success\\Lesson 18 Folding your way to success.fsproj",
-      "projectName": "Lesson 18 Folding your way to success",
-      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 18 Folding your way to success\\Lesson 18 Folding your way to success\\Lesson 18 Folding your way to success.fsproj",
+      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\11 Challange 2 - The bank app (again)\\Challange 2 - The bank app (again)\\Challange 2 - The bank app (again).fsproj",
+      "projectName": "Challange 2 - The bank app (again)",
+      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\11 Challange 2 - The bank app (again)\\Challange 2 - The bank app (again)\\Challange 2 - The bank app (again).fsproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 18 Folding your way to success\\Lesson 18 Folding your way to success\\obj\\",
+      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\11 Challange 2 - The bank app (again)\\Challange 2 - The bank app (again)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -827,12 +889,16 @@
         "dependencies": {
           "FSharp.Core": {
             "target": "Package",
-            "version": "[4.5.2, )"
+            "version": "[4.5.4, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.1, )"
           }
         },
         "imports": [

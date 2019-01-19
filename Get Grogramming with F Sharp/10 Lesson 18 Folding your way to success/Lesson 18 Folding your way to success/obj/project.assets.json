@@ -796,11 +796,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\01 Lesson 09 Shaping Data with Tuples\\Lesson 9 Shaping Data with Tuples\\Lesson 9 Shaping Data with Tuples.fsproj",
-      "projectName": "Lesson 9 Shaping Data with Tuples",
-      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\01 Lesson 09 Shaping Data with Tuples\\Lesson 9 Shaping Data with Tuples\\Lesson 9 Shaping Data with Tuples.fsproj",
+      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\10 Lesson 18 Folding your way to success\\Lesson 18 Folding your way to success\\Lesson 18 Folding your way to success.fsproj",
+      "projectName": "Lesson 18 Folding your way to success",
+      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\10 Lesson 18 Folding your way to success\\Lesson 18 Folding your way to success\\Lesson 18 Folding your way to success.fsproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\01 Lesson 09 Shaping Data with Tuples\\Lesson 9 Shaping Data with Tuples\\obj\\",
+      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\10 Lesson 18 Folding your way to success\\Lesson 18 Folding your way to success\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,20 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\bin\Debug\netcoreapp2.1\Challange 2 - The bank app (again).deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\bin\Debug\netcoreapp2.1\Challange 2 - The bank app (again).runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\bin\Debug\netcoreapp2.1\Challange 2 - The bank app (again).runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\bin\Debug\netcoreapp2.1\Challange 2 - The bank app (again).dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\bin\Debug\netcoreapp2.1\Challange 2 - The bank app (again).pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\obj\Debug\netcoreapp2.1\Challange 2 - The bank app (again).fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\obj\Debug\netcoreapp2.1\Challange 2 - The bank app (again).AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\obj\Debug\netcoreapp2.1\Challange 2 - The bank app (again).AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\obj\Debug\netcoreapp2.1\Challange 2 - The bank app (again).dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\obj\Debug\netcoreapp2.1\Challange 2 - The bank app (again).pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\11 Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\obj\Debug\netcoreapp2.1\Challange 2 - The bank app (again).fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\11 Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\obj\Debug\netcoreapp2.1\Challange 2 - The bank app (again).AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\11 Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\obj\Debug\netcoreapp2.1\Challange 2 - The bank app (again).AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\11 Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\obj\Debug\netcoreapp2.1\Challange 2 - The bank app (again).dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\11 Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\obj\Debug\netcoreapp2.1\Challange 2 - The bank app (again).pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\11 Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\bin\Debug\netcoreapp2.1\Challange 2 - The bank app (again).deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\11 Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\bin\Debug\netcoreapp2.1\Challange 2 - The bank app (again).runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\11 Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\bin\Debug\netcoreapp2.1\Challange 2 - The bank app (again).runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\11 Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\bin\Debug\netcoreapp2.1\Challange 2 - The bank app (again).dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\11 Challange 2 - The bank app (again)\Challange 2 - The bank app (again)\bin\Debug\netcoreapp2.1\Challange 2 - The bank app (again).pdb

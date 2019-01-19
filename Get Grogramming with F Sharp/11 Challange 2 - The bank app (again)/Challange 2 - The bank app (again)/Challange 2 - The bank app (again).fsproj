@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Challange_2___The_bank_app__again_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Util.fs" />
+    <Compile Include="Domain.fs" />
+    <Compile Include="Transactionlog.fs" />
+    <Compile Include="Operations.fs" />
+    <Compile Include="Auditing.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="FSharp.Core" Version="4.5.4" />
+  </ItemGroup>
+
+</Project>
