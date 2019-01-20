@@ -1,0 +1,10 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\13 Lesson 21 Discriminated Unions\Lesson 21 Discriminated Unions\bin\Debug\netcoreapp2.1\Lesson 21 Discriminated Unions.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\13 Lesson 21 Discriminated Unions\Lesson 21 Discriminated Unions\bin\Debug\netcoreapp2.1\Lesson 21 Discriminated Unions.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\13 Lesson 21 Discriminated Unions\Lesson 21 Discriminated Unions\bin\Debug\netcoreapp2.1\Lesson 21 Discriminated Unions.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\13 Lesson 21 Discriminated Unions\Lesson 21 Discriminated Unions\bin\Debug\netcoreapp2.1\Lesson 21 Discriminated Unions.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\13 Lesson 21 Discriminated Unions\Lesson 21 Discriminated Unions\bin\Debug\netcoreapp2.1\Lesson 21 Discriminated Unions.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\13 Lesson 21 Discriminated Unions\Lesson 21 Discriminated Unions\obj\Debug\netcoreapp2.1\Lesson 21 Discriminated Unions.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\13 Lesson 21 Discriminated Unions\Lesson 21 Discriminated Unions\obj\Debug\netcoreapp2.1\Lesson 21 Discriminated Unions.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\13 Lesson 21 Discriminated Unions\Lesson 21 Discriminated Unions\obj\Debug\netcoreapp2.1\Lesson 21 Discriminated Unions.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\13 Lesson 21 Discriminated Unions\Lesson 21 Discriminated Unions\obj\Debug\netcoreapp2.1\Lesson 21 Discriminated Unions.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\13 Lesson 21 Discriminated Unions\Lesson 21 Discriminated Unions\obj\Debug\netcoreapp2.1\Lesson 21 Discriminated Unions.pdb
