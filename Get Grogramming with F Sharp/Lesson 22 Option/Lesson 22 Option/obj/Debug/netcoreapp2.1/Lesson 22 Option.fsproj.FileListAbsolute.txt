@@ -1,0 +1,10 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\bin\Debug\netcoreapp2.1\Lesson 22 Option.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\bin\Debug\netcoreapp2.1\Lesson 22 Option.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\bin\Debug\netcoreapp2.1\Lesson 22 Option.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\bin\Debug\netcoreapp2.1\Lesson 22 Option.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\bin\Debug\netcoreapp2.1\Lesson 22 Option.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.pdb

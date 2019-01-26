@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Lesson 22 Option", "Lesson 22 Option\Lesson 22 Option.fsproj", "{C7A1BF85-0860-4F24-9872-75C5257CA5AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A1BF85-0860-4F24-9872-75C5257CA5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A1BF85-0860-4F24-9872-75C5257CA5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A1BF85-0860-4F24-9872-75C5257CA5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A1BF85-0860-4F24-9872-75C5257CA5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B801DE5D-FCAB-4967-AAF2-BA40ED805B89}
+	EndGlobalSection
+EndGlobal
