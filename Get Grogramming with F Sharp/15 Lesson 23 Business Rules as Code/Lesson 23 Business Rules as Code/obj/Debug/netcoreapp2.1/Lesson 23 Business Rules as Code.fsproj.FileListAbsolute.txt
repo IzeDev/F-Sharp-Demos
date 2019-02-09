@@ -1,0 +1,10 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\15 Lesson 23 Business Rules as Code\Lesson 23 Business Rules as Code\bin\Debug\netcoreapp2.1\Lesson 23 Business Rules as Code.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\15 Lesson 23 Business Rules as Code\Lesson 23 Business Rules as Code\bin\Debug\netcoreapp2.1\Lesson 23 Business Rules as Code.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\15 Lesson 23 Business Rules as Code\Lesson 23 Business Rules as Code\bin\Debug\netcoreapp2.1\Lesson 23 Business Rules as Code.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\15 Lesson 23 Business Rules as Code\Lesson 23 Business Rules as Code\bin\Debug\netcoreapp2.1\Lesson 23 Business Rules as Code.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\15 Lesson 23 Business Rules as Code\Lesson 23 Business Rules as Code\bin\Debug\netcoreapp2.1\Lesson 23 Business Rules as Code.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\15 Lesson 23 Business Rules as Code\Lesson 23 Business Rules as Code\obj\Debug\netcoreapp2.1\Lesson 23 Business Rules as Code.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\15 Lesson 23 Business Rules as Code\Lesson 23 Business Rules as Code\obj\Debug\netcoreapp2.1\Lesson 23 Business Rules as Code.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\15 Lesson 23 Business Rules as Code\Lesson 23 Business Rules as Code\obj\Debug\netcoreapp2.1\Lesson 23 Business Rules as Code.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\15 Lesson 23 Business Rules as Code\Lesson 23 Business Rules as Code\obj\Debug\netcoreapp2.1\Lesson 23 Business Rules as Code.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\15 Lesson 23 Business Rules as Code\Lesson 23 Business Rules as Code\obj\Debug\netcoreapp2.1\Lesson 23 Business Rules as Code.pdb
