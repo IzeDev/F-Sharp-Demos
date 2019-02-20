@@ -1,0 +1,10 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers\bin\Debug\netcoreapp2.1\Lesson 30 Introducing Type providers.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers\bin\Debug\netcoreapp2.1\Lesson 30 Introducing Type providers.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers\bin\Debug\netcoreapp2.1\Lesson 30 Introducing Type providers.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers\bin\Debug\netcoreapp2.1\Lesson 30 Introducing Type providers.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers\bin\Debug\netcoreapp2.1\Lesson 30 Introducing Type providers.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers\obj\Debug\netcoreapp2.1\Lesson 30 Introducing Type providers.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers\obj\Debug\netcoreapp2.1\Lesson 30 Introducing Type providers.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers\obj\Debug\netcoreapp2.1\Lesson 30 Introducing Type providers.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers\obj\Debug\netcoreapp2.1\Lesson 30 Introducing Type providers.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers\obj\Debug\netcoreapp2.1\Lesson 30 Introducing Type providers.pdb

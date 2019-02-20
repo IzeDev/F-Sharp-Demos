@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Lesson 30 Introducing Type providers", "Lesson 30 Introducing Type providers\Lesson 30 Introducing Type providers.fsproj", "{16B11189-C065-41F3-A3AA-D826C2922FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B11189-C065-41F3-A3AA-D826C2922FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B11189-C065-41F3-A3AA-D826C2922FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B11189-C065-41F3-A3AA-D826C2922FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B11189-C065-41F3-A3AA-D826C2922FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC15991-FE4B-4227-AB9A-338FDFA59FCA}
+	EndGlobalSection
+EndGlobal
