@@ -1,0 +1,52 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\Lesson_36_Asynchronous_Workflows.exe.config
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\Lesson_36_Asynchronous_Workflows.XML
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\Lesson_36_Asynchronous_Workflows.exe
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\Lesson_36_Asynchronous_Workflows.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\FSharp.Core.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\System.ValueTuple.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\FSharp.Core.xml
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\System.ValueTuple.xml
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\cs\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\de\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\en\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\es\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\fr\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\it\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\ja\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\ko\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\pl\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\ru\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\tr\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\obj\Debug\Lesson 36 Asynchronous Workflows.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\obj\Debug\Lesson 36 Asynchronous Workflows.fsproj.CopyComplete
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\obj\Debug\Lesson_36_Asynchronous_Workflows.exe
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\obj\Debug\Lesson_36_Asynchronous_Workflows.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\Lesson_36_Asynchronous_Workflows.exe.config
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\Lesson_36_Asynchronous_Workflows.XML
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\Lesson_36_Asynchronous_Workflows.exe
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\Lesson_36_Asynchronous_Workflows.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\FSharp.Core.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\System.ValueTuple.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\FSharp.Core.xml
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\System.ValueTuple.xml
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\cs\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\de\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\en\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\es\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\fr\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\it\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\ja\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\ko\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\pl\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\ru\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\tr\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\obj\Debug\Lesson 36 Asynchronous Workflows.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\obj\Debug\Lesson 36 Asynchronous Workflows.fsproj.CopyComplete
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\obj\Debug\Lesson_36_Asynchronous_Workflows.exe
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\17 Lesson 36 Asynchronous Workflows\Lesson 36 Asynchronous Workflows\obj\Debug\Lesson_36_Asynchronous_Workflows.pdb
