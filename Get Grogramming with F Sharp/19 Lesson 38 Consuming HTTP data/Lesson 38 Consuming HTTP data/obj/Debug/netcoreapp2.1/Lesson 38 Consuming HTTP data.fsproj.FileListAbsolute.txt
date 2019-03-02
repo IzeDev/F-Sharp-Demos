@@ -1,0 +1,10 @@
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 38 Consuming HTTP data\Lesson 38 Consuming HTTP data\bin\Debug\netcoreapp2.1\Lesson 38 Consuming HTTP data.deps.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 38 Consuming HTTP data\Lesson 38 Consuming HTTP data\bin\Debug\netcoreapp2.1\Lesson 38 Consuming HTTP data.runtimeconfig.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 38 Consuming HTTP data\Lesson 38 Consuming HTTP data\bin\Debug\netcoreapp2.1\Lesson 38 Consuming HTTP data.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 38 Consuming HTTP data\Lesson 38 Consuming HTTP data\bin\Debug\netcoreapp2.1\Lesson 38 Consuming HTTP data.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 38 Consuming HTTP data\Lesson 38 Consuming HTTP data\obj\Debug\netcoreapp2.1\Lesson 38 Consuming HTTP data.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 38 Consuming HTTP data\Lesson 38 Consuming HTTP data\obj\Debug\netcoreapp2.1\Lesson 38 Consuming HTTP data.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 38 Consuming HTTP data\Lesson 38 Consuming HTTP data\obj\Debug\netcoreapp2.1\Lesson 38 Consuming HTTP data.fsprojAssemblyReference.cache
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 38 Consuming HTTP data\Lesson 38 Consuming HTTP data\bin\Debug\netcoreapp2.1\Lesson 38 Consuming HTTP data.pdb
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 38 Consuming HTTP data\Lesson 38 Consuming HTTP data\obj\Debug\netcoreapp2.1\Lesson 38 Consuming HTTP data.dll
+D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 38 Consuming HTTP data\Lesson 38 Consuming HTTP data\obj\Debug\netcoreapp2.1\Lesson 38 Consuming HTTP data.pdb
