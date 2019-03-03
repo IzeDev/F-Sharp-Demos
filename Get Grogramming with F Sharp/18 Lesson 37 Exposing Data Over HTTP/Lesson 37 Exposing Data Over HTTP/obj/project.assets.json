@@ -875,11 +875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 37 Exposing Data Over HTTP\\Lesson 37 Exposing Data Over HTTP\\Lesson 37 Exposing Data Over HTTP.fsproj",
+      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\18 Lesson 37 Exposing Data Over HTTP\\Lesson 37 Exposing Data Over HTTP\\Lesson 37 Exposing Data Over HTTP.fsproj",
       "projectName": "Lesson 37 Exposing Data Over HTTP",
-      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 37 Exposing Data Over HTTP\\Lesson 37 Exposing Data Over HTTP\\Lesson 37 Exposing Data Over HTTP.fsproj",
+      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\18 Lesson 37 Exposing Data Over HTTP\\Lesson 37 Exposing Data Over HTTP\\Lesson 37 Exposing Data Over HTTP.fsproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 37 Exposing Data Over HTTP\\Lesson 37 Exposing Data Over HTTP\\obj\\",
+      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\18 Lesson 37 Exposing Data Over HTTP\\Lesson 37 Exposing Data Over HTTP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -2777,11 +2777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 38 Consuming HTTP data\\Lesson 38 Consuming HTTP data\\Lesson 38 Consuming HTTP data.fsproj",
+      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\19 Lesson 38 Consuming HTTP data\\Lesson 38 Consuming HTTP data\\Lesson 38 Consuming HTTP data.fsproj",
       "projectName": "Lesson 38 Consuming HTTP data",
-      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 38 Consuming HTTP data\\Lesson 38 Consuming HTTP data\\Lesson 38 Consuming HTTP data.fsproj",
+      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\19 Lesson 38 Consuming HTTP data\\Lesson 38 Consuming HTTP data\\Lesson 38 Consuming HTTP data.fsproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\Lesson 38 Consuming HTTP data\\Lesson 38 Consuming HTTP data\\obj\\",
+      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\19 Lesson 38 Consuming HTTP data\\Lesson 38 Consuming HTTP data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
