@@ -9,10 +9,10 @@ let where filter collection =
             if filter item then yield item }
 
  // A helper
-let toText collection =
-    let mutable x = "";
+let toText separator collection =
+    let mutable x = ""
     for item in collection do
-        x <- x + " " + item.ToString()
+        x <- x + separator + item.ToString()
     x
 
  // Hard implementation
@@ -29,13 +29,13 @@ let log writer x =
 
 [<EntryPoint>]
 let main argv =
-    let customers = [| { age = 12 }; { age = 13 } |]
+    let customers = [| { age = 12 }; { age = 13 }; { age = 14 } |]
 
     // Calling WHERE with the hard implementation inlined.
     let customersOfThirteenOrOlder =
         customers |> where (fun customer -> customer.age >= 13)
 
     // Shovin data to the log-function, defining which implementation to use.
-    customersOfThirteenOrOlder |> toText |> log writeToConsole
-    customersOfThirteenOrOlder |> toText |> log writeToFile
+    customersOfThirteenOrOlder |> toText " " |> log writeToConsole
+    customersOfThirteenOrOlder |> toText " " |> log writeToFile
     0 // return an integer exit code

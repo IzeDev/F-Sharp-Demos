@@ -1,8 +1,7 @@
-﻿// Learn more about F# at http://fsharp.org
-
-open System
+﻿open System
 open SomeAPI // Open the namespace
 open Operations // Open the public module
+// Also an option -> open SomeApi.Operations
 
 (*
     // This would not work since InnerOperations is private.
