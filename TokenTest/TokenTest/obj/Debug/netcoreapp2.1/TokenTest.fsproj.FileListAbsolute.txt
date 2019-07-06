@@ -1,0 +1,9 @@
+D:\Source\F-Sharp Demos\TokenTest\TokenTest\bin\Debug\netcoreapp2.1\TokenTest.deps.json
+D:\Source\F-Sharp Demos\TokenTest\TokenTest\bin\Debug\netcoreapp2.1\TokenTest.runtimeconfig.json
+D:\Source\F-Sharp Demos\TokenTest\TokenTest\bin\Debug\netcoreapp2.1\TokenTest.runtimeconfig.dev.json
+D:\Source\F-Sharp Demos\TokenTest\TokenTest\bin\Debug\netcoreapp2.1\TokenTest.dll
+D:\Source\F-Sharp Demos\TokenTest\TokenTest\bin\Debug\netcoreapp2.1\TokenTest.pdb
+D:\Source\F-Sharp Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.AssemblyInfoInputs.cache
+D:\Source\F-Sharp Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.AssemblyInfo.fs
+D:\Source\F-Sharp Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.dll
+D:\Source\F-Sharp Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.pdb
