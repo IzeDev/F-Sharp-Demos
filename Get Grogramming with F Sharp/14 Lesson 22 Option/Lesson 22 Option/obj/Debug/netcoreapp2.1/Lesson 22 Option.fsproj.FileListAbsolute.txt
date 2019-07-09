@@ -8,3 +8,13 @@ D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.AssemblyInfo.fs
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.dll
 D:\Source\F-Sharp Demos\Get Grogramming with F Sharp\Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.pdb
+C:\Users\jimmy\source\repos\F-Sharp-Demos\Get Grogramming with F Sharp\14 Lesson 22 Option\Lesson 22 Option\bin\Debug\netcoreapp2.1\Lesson 22 Option.deps.json
+C:\Users\jimmy\source\repos\F-Sharp-Demos\Get Grogramming with F Sharp\14 Lesson 22 Option\Lesson 22 Option\bin\Debug\netcoreapp2.1\Lesson 22 Option.runtimeconfig.json
+C:\Users\jimmy\source\repos\F-Sharp-Demos\Get Grogramming with F Sharp\14 Lesson 22 Option\Lesson 22 Option\bin\Debug\netcoreapp2.1\Lesson 22 Option.runtimeconfig.dev.json
+C:\Users\jimmy\source\repos\F-Sharp-Demos\Get Grogramming with F Sharp\14 Lesson 22 Option\Lesson 22 Option\bin\Debug\netcoreapp2.1\Lesson 22 Option.dll
+C:\Users\jimmy\source\repos\F-Sharp-Demos\Get Grogramming with F Sharp\14 Lesson 22 Option\Lesson 22 Option\bin\Debug\netcoreapp2.1\Lesson 22 Option.pdb
+C:\Users\jimmy\source\repos\F-Sharp-Demos\Get Grogramming with F Sharp\14 Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.fsprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\F-Sharp-Demos\Get Grogramming with F Sharp\14 Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\F-Sharp-Demos\Get Grogramming with F Sharp\14 Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.AssemblyInfo.fs
+C:\Users\jimmy\source\repos\F-Sharp-Demos\Get Grogramming with F Sharp\14 Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.dll
+C:\Users\jimmy\source\repos\F-Sharp-Demos\Get Grogramming with F Sharp\14 Lesson 22 Option\Lesson 22 Option\obj\Debug\netcoreapp2.1\Lesson 22 Option.pdb

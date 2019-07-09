@@ -7,3 +7,13 @@ D:\Source\F-Sharp Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.As
 D:\Source\F-Sharp Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.AssemblyInfo.fs
 D:\Source\F-Sharp Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.dll
 D:\Source\F-Sharp Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.pdb
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.fsprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.AssemblyInfo.fs
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.dll
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TokenTest\TokenTest\obj\Debug\netcoreapp2.1\TokenTest.pdb
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TokenTest\TokenTest\bin\Debug\netcoreapp2.1\TokenTest.deps.json
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TokenTest\TokenTest\bin\Debug\netcoreapp2.1\TokenTest.runtimeconfig.json
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TokenTest\TokenTest\bin\Debug\netcoreapp2.1\TokenTest.runtimeconfig.dev.json
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TokenTest\TokenTest\bin\Debug\netcoreapp2.1\TokenTest.dll
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TokenTest\TokenTest\bin\Debug\netcoreapp2.1\TokenTest.pdb

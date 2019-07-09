@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "FSharp.Core/4.5.2": {
+      "FSharp.Core/4.6.2": {
         "type": "package",
         "compile": {
           "lib/netstandard1.6/FSharp.Core.dll": {}
@@ -264,18 +264,17 @@
     }
   },
   "libraries": {
-    "FSharp.Core/4.5.2": {
-      "sha512": "Pe3EDp9oBjQ3c3fvZAJsw7XFLHECS3zn3P7MSqsJy3sFYR6jvTgxxnCFeePR1JHiWyZ3bm+RZAjchqVYk61adA==",
+    "FSharp.Core/4.6.2": {
+      "sha512": "/waJ3a7u7MjFOGnXOfokbG1N1FH7VCmP3Fw1tJ8Q75kIj60LYBL3eYzab9hDimL5E21uhQ/1wf04M3dRAYemlw==",
       "type": "package",
-      "path": "fsharp.core/4.5.2",
+      "path": "fsharp.core/4.6.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "fsharp.core.4.5.2.nupkg.sha512",
+        "fsharp.core.4.6.2.nupkg.sha512",
         "fsharp.core.nuspec",
         "lib/net45/FSharp.Core.dll",
         "lib/net45/FSharp.Core.optdata",
-        "lib/net45/FSharp.Core.resources.dll",
         "lib/net45/FSharp.Core.sigdata",
         "lib/net45/FSharp.Core.xml",
         "lib/net45/cs/FSharp.Core.resources.dll",
@@ -785,7 +784,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "FSharp.Core >= 4.5.2",
+      "FSharp.Core >= 4.6.2",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -796,11 +795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\Lesson 22 Option.fsproj",
+      "projectUniqueName": "C:\\Users\\jimmy\\source\\repos\\F-Sharp-Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\Lesson 22 Option.fsproj",
       "projectName": "Lesson 22 Option",
-      "projectPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\Lesson 22 Option.fsproj",
+      "projectPath": "C:\\Users\\jimmy\\source\\repos\\F-Sharp-Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\Lesson 22 Option.fsproj",
       "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\F-Sharp Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\obj\\",
+      "outputPath": "C:\\Users\\jimmy\\source\\repos\\F-Sharp-Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -827,9 +826,10 @@
         "dependencies": {
           "FSharp.Core": {
             "target": "Package",
-            "version": "[4.5.2, )"
+            "version": "[4.6.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

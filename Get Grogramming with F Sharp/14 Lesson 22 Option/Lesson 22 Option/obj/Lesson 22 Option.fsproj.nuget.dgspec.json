@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jimmy\\source\\repos\\F-Sharp-Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\Lesson 22 Option.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jimmy\\source\\repos\\F-Sharp-Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\Lesson 22 Option.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy\\source\\repos\\F-Sharp-Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\Lesson 22 Option.fsproj",
+        "projectName": "Lesson 22 Option",
+        "projectPath": "C:\\Users\\jimmy\\source\\repos\\F-Sharp-Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\Lesson 22 Option.fsproj",
+        "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy\\source\\repos\\F-Sharp-Demos\\Get Grogramming with F Sharp\\14 Lesson 22 Option\\Lesson 22 Option\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
