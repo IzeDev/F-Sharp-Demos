@@ -1,0 +1,10 @@
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TestingTheSetDataStructure\TestingTheSetDataStructure\bin\Debug\netcoreapp2.2\TestingTheSetDataStructure.deps.json
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TestingTheSetDataStructure\TestingTheSetDataStructure\bin\Debug\netcoreapp2.2\TestingTheSetDataStructure.runtimeconfig.json
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TestingTheSetDataStructure\TestingTheSetDataStructure\bin\Debug\netcoreapp2.2\TestingTheSetDataStructure.runtimeconfig.dev.json
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TestingTheSetDataStructure\TestingTheSetDataStructure\bin\Debug\netcoreapp2.2\TestingTheSetDataStructure.dll
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TestingTheSetDataStructure\TestingTheSetDataStructure\bin\Debug\netcoreapp2.2\TestingTheSetDataStructure.pdb
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TestingTheSetDataStructure\TestingTheSetDataStructure\obj\Debug\netcoreapp2.2\TestingTheSetDataStructure.fsprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TestingTheSetDataStructure\TestingTheSetDataStructure\obj\Debug\netcoreapp2.2\TestingTheSetDataStructure.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TestingTheSetDataStructure\TestingTheSetDataStructure\obj\Debug\netcoreapp2.2\TestingTheSetDataStructure.AssemblyInfo.fs
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TestingTheSetDataStructure\TestingTheSetDataStructure\obj\Debug\netcoreapp2.2\TestingTheSetDataStructure.dll
+C:\Users\jimmy\source\repos\F-Sharp-Demos\TestingTheSetDataStructure\TestingTheSetDataStructure\obj\Debug\netcoreapp2.2\TestingTheSetDataStructure.pdb
