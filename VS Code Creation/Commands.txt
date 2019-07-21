@@ -1,0 +1,5 @@
+Suave web project (VS Code)
+	OS -> new directory -> Open with VS Code
+	F# -> New project
+		F# Suave
+		Leave directory empty
