@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\TokenTest\\TokenTest\\TokenTest.fsproj": {}
+    "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\17 Lesson 32 Working with SQL\\Lesson 32 Working with SQL\\Lesson 32 Working with SQL.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\TokenTest\\TokenTest\\TokenTest.fsproj": {
+    "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\17 Lesson 32 Working with SQL\\Lesson 32 Working with SQL\\Lesson 32 Working with SQL.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\TokenTest\\TokenTest\\TokenTest.fsproj",
-        "projectName": "TokenTest",
-        "projectPath": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\TokenTest\\TokenTest\\TokenTest.fsproj",
+        "projectUniqueName": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\17 Lesson 32 Working with SQL\\Lesson 32 Working with SQL\\Lesson 32 Working with SQL.fsproj",
+        "projectName": "Lesson 32 Working with SQL",
+        "projectPath": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\17 Lesson 32 Working with SQL\\Lesson 32 Working with SQL\\Lesson 32 Working with SQL.fsproj",
         "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\TokenTest\\TokenTest\\obj\\",
+        "outputPath": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\17 Lesson 32 Working with SQL\\Lesson 32 Working with SQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,29 +21,33 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "FSharp.Core": {
               "target": "Package",
               "version": "[4.7.0, )"
             },
+            "FSharp.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },

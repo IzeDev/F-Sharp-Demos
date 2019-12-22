@@ -1,0 +1,10 @@
+C:\Users\jimmy\source\F-Sharp-Demos\Get Grogramming with F Sharp\17 Lesson 32 Working with SQL\Lesson 32 Working with SQL\bin\Debug\netcoreapp2.2\Lesson 32 Working with SQL.deps.json
+C:\Users\jimmy\source\F-Sharp-Demos\Get Grogramming with F Sharp\17 Lesson 32 Working with SQL\Lesson 32 Working with SQL\bin\Debug\netcoreapp2.2\Lesson 32 Working with SQL.runtimeconfig.json
+C:\Users\jimmy\source\F-Sharp-Demos\Get Grogramming with F Sharp\17 Lesson 32 Working with SQL\Lesson 32 Working with SQL\bin\Debug\netcoreapp2.2\Lesson 32 Working with SQL.runtimeconfig.dev.json
+C:\Users\jimmy\source\F-Sharp-Demos\Get Grogramming with F Sharp\17 Lesson 32 Working with SQL\Lesson 32 Working with SQL\bin\Debug\netcoreapp2.2\Lesson 32 Working with SQL.dll
+C:\Users\jimmy\source\F-Sharp-Demos\Get Grogramming with F Sharp\17 Lesson 32 Working with SQL\Lesson 32 Working with SQL\obj\Debug\netcoreapp2.2\Lesson 32 Working with SQL.fsprojAssemblyReference.cache
+C:\Users\jimmy\source\F-Sharp-Demos\Get Grogramming with F Sharp\17 Lesson 32 Working with SQL\Lesson 32 Working with SQL\obj\Debug\netcoreapp2.2\Lesson 32 Working with SQL.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\F-Sharp-Demos\Get Grogramming with F Sharp\17 Lesson 32 Working with SQL\Lesson 32 Working with SQL\obj\Debug\netcoreapp2.2\Lesson 32 Working with SQL.AssemblyInfo.fs
+C:\Users\jimmy\source\F-Sharp-Demos\Get Grogramming with F Sharp\17 Lesson 32 Working with SQL\Lesson 32 Working with SQL\bin\Debug\netcoreapp2.2\Lesson 32 Working with SQL.pdb
+C:\Users\jimmy\source\F-Sharp-Demos\Get Grogramming with F Sharp\17 Lesson 32 Working with SQL\Lesson 32 Working with SQL\obj\Debug\netcoreapp2.2\Lesson 32 Working with SQL.dll
+C:\Users\jimmy\source\F-Sharp-Demos\Get Grogramming with F Sharp\17 Lesson 32 Working with SQL\Lesson 32 Working with SQL\obj\Debug\netcoreapp2.2\Lesson 32 Working with SQL.pdb
