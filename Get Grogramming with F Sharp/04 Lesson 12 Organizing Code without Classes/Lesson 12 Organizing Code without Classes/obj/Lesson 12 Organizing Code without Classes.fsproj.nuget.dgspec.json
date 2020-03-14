@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\Lesson 12 Organizing Code without Classes\\Lesson 12 Organizing Code without Classes.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\Lesson 12 Organizing Code without Classes\\Lesson 12 Organizing Code without Classes.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\Lesson 12 Organizing Code without Classes\\Lesson 12 Organizing Code without Classes.fsproj",
+        "projectName": "Lesson 12 Organizing Code without Classes",
+        "projectPath": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\Lesson 12 Organizing Code without Classes\\Lesson 12 Organizing Code without Classes.fsproj",
+        "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\Lesson 12 Organizing Code without Classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\SomeAPI\\SomeAPI.fsproj": {
+                "projectPath": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\SomeAPI\\SomeAPI.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\SomeAPI\\SomeAPI.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\SomeAPI\\SomeAPI.fsproj",
+        "projectName": "SomeAPI",
+        "projectPath": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\SomeAPI\\SomeAPI.fsproj",
+        "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy\\source\\F-Sharp-Demos\\Get Grogramming with F Sharp\\04 Lesson 12 Organizing Code without Classes\\SomeAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
